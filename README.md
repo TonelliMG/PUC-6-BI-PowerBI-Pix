@@ -6,7 +6,7 @@
 
 ## Grupo
 
-- Raphael Tonelli
+- Raphael Tonelli (SM)
 - Pedro Santos
 - Monique Feitosa
 - Camila Luiza
