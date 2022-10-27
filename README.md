@@ -10,7 +10,6 @@
 - Pedro Santos
 - Monique Feitosa
 - Camila Luiza
-- Maycon Douglas
 
 ## Base de Dados
 
@@ -27,3 +26,5 @@ Desenvolver um relatório via Power BI com as informações da base de dados do 
 - Quantia Transações Pix
 - Natureza Quantidae Transações Pix
 - Natureza Quantia Transações Pix
+
+> ![PIX](images/pix.png)
