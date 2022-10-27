@@ -6,7 +6,7 @@
 
 ## Grupo
 
-- Raphael Tonelli
+- Raphael Tonelli (SM)
 - Pedro Santos
 - Monique Feitosa
 - Camila Luiza
@@ -15,16 +15,21 @@
 
 Base de dados do PIX disponibilizada pelo governo federal no [Banco Central](https://www.bcb.gov.br/estabilidadefinanceira/estatisticaspix).
 
+<a href="https://www.bcb.gov.br/estabilidadefinanceira/estatisticaspix" ><img src="images/pix.png" alt="drawing" width="200"/></a>
+
+- Chave por natureza
+- Chave por tipo
+- Quantia pix
+- Quantia por natureza pix
+- Quantidade contas
+- Quantidade pix
+- Quantidade por natureza
+- Quantidade saque
+- Quantidade usuarios
+- Transações por idade
+- Transações por região
+- Usuários utilizando
+
 ## Objetivo
 
-Desenvolver um relatório via Power BI com as informações da base de dados do PIX. As informações selecionadas até o momento foram:
-
-- Chaves por Tipo
-- Chaves por Natureza
-
-- Quantidade Transações Pix
-- Quantia Transações Pix
-- Natureza Quantidae Transações Pix
-- Natureza Quantia Transações Pix
-
-<a href="https://www.bcb.gov.br/estabilidadefinanceira/estatisticaspix" ><img src="images/pix.png" alt="drawing" width="200"/></a>
+Desenvolver um relatório via Power BI com as informações da base de dados do PIX. Algumas bases de dados já foram selecionadas até o momento, porém não necessáriamente todas serão utilizadas! O metodo selecionado para desenvolver a aplicação foi o Snowflake Lookup, criando nossas bases de dados e gerando um painel BI.
