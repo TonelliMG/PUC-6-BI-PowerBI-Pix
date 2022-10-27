@@ -15,6 +15,8 @@
 
 Base de dados do PIX disponibilizada pelo governo federal no [Banco Central](https://www.bcb.gov.br/estabilidadefinanceira/estatisticaspix).
 
+<a href="https://www.bcb.gov.br/estabilidadefinanceira/estatisticaspix" ><img src="images/pix.png" alt="drawing" width="200"/></a>
+
 - Chave por natureza
 - Chave por tipo
 - Quantia pix
@@ -31,5 +33,3 @@ Base de dados do PIX disponibilizada pelo governo federal no [Banco Central](htt
 ## Objetivo
 
 Desenvolver um relatório via Power BI com as informações da base de dados do PIX. Algumas bases de dados já foram selecionadas até o momento, porém não necessáriamente todas serão utilizadas! O metodo selecionado para desenvolver a aplicação foi o Snowflake Lookup, criando nossas bases de dados e gerando um painel BI.
-
-<a href="https://www.bcb.gov.br/estabilidadefinanceira/estatisticaspix" ><img src="images/pix.png" alt="drawing" width="200"/></a>
