@@ -27,4 +27,4 @@ Desenvolver um relatório via Power BI com as informações da base de dados do 
 - Natureza Quantidae Transações Pix
 - Natureza Quantia Transações Pix
 
-> ![PIX](images/pix.png)
+<img src="images/pix.png" alt="drawing" width="200"/>
