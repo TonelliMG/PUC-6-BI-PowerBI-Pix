@@ -10,6 +10,7 @@
 - Pedro Santos
 - Monique Feitosa
 - Camila Luiza
+- Maycon Douglas
 
 ## Base de Dados
 
